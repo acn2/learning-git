@@ -1,1 +1,2 @@
-Some new text in this file. 
+Some new text in this file.
+More new text
